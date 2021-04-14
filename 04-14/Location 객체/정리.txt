@@ -1,0 +1,20 @@
+console.log(location.protocol) https://
+console.log(location.host) opentitorials.org
+console.log(location.port) 80
+console.log(location.pathname) module/1375
+console.log(location.search) ?id=1
+console.log(location.hash) #hash
+
+http://opentitorials.org:80/module/1375?id=1#hash
+
+location.herf
+현재 주소를 땀
+location.herf = 'http://naver.com';
+네이버로 이동
+location = 'http://naver.com';
+네이버로 이동
+
+location.reload();
+현재 문서를 리로드
+location.herf = location.herf
+현재 문서를 리로드

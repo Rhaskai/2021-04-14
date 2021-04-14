@@ -1,0 +1,14 @@
+console.dir(navigator);
+
+console.dir(navigator.appName);
+웹브라우저 이름
+IE는 Microsoft Internet Explorer, 파이어폭스, 크롬등은 Nescape
+
+console.dir(navigator.appVersion);
+브라우저 버전
+
+console.dir(navigator.userAgent);
+USER-AGENT HTTP 헤더 내용
+
+console.dir(navigator.platform);
+브라우저가 동작하고 있는 운영체제 정보
